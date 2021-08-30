@@ -1,10 +1,8 @@
 ---
 layout: home
-permalink: "/"
-title: Athena Jekyll Theme
+permalink: /
+title: Homebrew Packages Frontend
 
 ---
-
-A simple and elegant theme for Jekyll and GitHub Pages.
-
+Here you can find a catalog of Nintendo homebrew for several different consoles
 
